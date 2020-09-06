@@ -37,15 +37,15 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'CONFIG_NOT_EXIST'					=> 'The config setting "%s" unexpectedly does not exist.',
+	'CONFIG_NOT_EXIST'					=> 'Pengaturan configurasi "%s" tidak ada.',
 
-	'GROUP_NOT_EXIST'					=> 'The group "%s" unexpectedly does not exist.',
+	'GROUP_NOT_EXIST'					=> 'Grup "%s" tidak ada.',
 
-	'MIGRATION_APPLY_DEPENDENCIES'		=> 'Apply dependencies of %s.',
-	'MIGRATION_DATA_DONE'				=> 'Installed Data: %1$s; Time: %2$.2f seconds',
-	'MIGRATION_DATA_IN_PROGRESS'		=> 'Installing Data: %1$s; Time: %2$.2f seconds',
-	'MIGRATION_DATA_RUNNING'			=> 'Installing Data: %s.',
-	'MIGRATION_EFFECTIVELY_INSTALLED'	=> 'Migration already effectively installed (skipped): %s',
+	'MIGRATION_APPLY_DEPENDENCIES'		=> 'Tetap mempertahankan %s.',
+	'MIGRATION_DATA_DONE'				=> 'Data terpasang: %1$s; Waktu: %2$.2f detik',
+	'MIGRATION_DATA_IN_PROGRESS'		=> 'Data terpasang: %1$s; Waktu: %2$.2f detik',
+	'MIGRATION_DATA_RUNNING'			=> 'Data terpasang: %s.',
+	'MIGRATION_EFFECTIVELY_INSTALLED'	=> 'Migrasi sudah terpasang (abaikan): %s',
 	'MIGRATION_EXCEPTION_ERROR'			=> 'Something went wrong during the request and an exception was thrown. The changes made before the error occurred were reversed to the best of our abilities, but you should check the board for errors.',
 	'MIGRATION_NOT_FULFILLABLE'			=> 'The migration "%1$s" is not fulfillable, missing migration "%2$s".',
 	'MIGRATION_NOT_INSTALLED'			=> 'The migration "%s" is not installed.',
@@ -75,7 +75,7 @@ $lang = array_merge($lang, array(
 	'MODULE_NOT_EXIST'					=> 'A required module does not exist: %s',
 
 	'PARENT_MODULE_FIND_ERROR'			=> 'Unable to determine the parent module identifier: %s',
-	'PERMISSION_NOT_EXIST'				=> 'The permission setting "%s" unexpectedly does not exist.',
+	'PERMISSION_NOT_EXIST'				=> 'Pengaturan izin "%s" tidak ada.',
 
-	'ROLE_NOT_EXIST'					=> 'The permission role "%s" unexpectedly does not exist.',
+	'ROLE_NOT_EXIST'					=> 'Izin "%s" tidak ada.',
 ));
