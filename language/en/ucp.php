@@ -410,6 +410,7 @@ $lang = array_merge($lang, array(
 	'NO_WATCHED_FORUMS'			=> 'Anda tidak ditempatkan di grup manapun.',
 	'NO_WATCHED_SELECTED'		=> 'Anda belum memilih topik atau forum yang ditempatkan.',
 	'NO_WATCHED_TOPICS'			=> 'Anda tidak ditempatkan di topik manapun.',
+	'OAUTH_REGISTRATION'			=> 'Registrasi OAUTH.',
 
 	'PASS_TYPE_ALPHA_EXPLAIN'	=> 'Panjang kata sandi harus diantara %1$d sampai %2$d karakter, harus mengandung pencampuran huruf besar dan kecil dan harus mengandung angka.',
 	'PASS_TYPE_ANY_EXPLAIN'		=> 'Panjang kata sandi harus diantara %1$d sampai %2$d karakter.',
