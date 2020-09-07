@@ -53,7 +53,7 @@ $lang = array_merge($lang, array(
 
 	'GLOBAL'				=> 'Pengumuman Global',
 
-	'IGNORED_TERMS'			=> 'Abaikan',
+	'IGNORED_TERMS'			=> 'Diabaikan',
 	'IGNORED_TERMS_EXPLAIN'	=> 'Kata-kata yang ada di query pencarian anda diabaikan, karena merupakan kata-kata yang terlalu umum: <strong>%s</strong>.',
 
 	'JUMP_TO_POST'			=> 'Lompat ke post',
