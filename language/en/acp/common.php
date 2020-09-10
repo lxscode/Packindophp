@@ -655,8 +655,7 @@ $lang = array_merge($lang, array(
 	'LOG_FORUM_EDIT'						=> '<strong>Mengubah keterangan forum</strong><br />» %s',
 	'LOG_FORUM_MOVE_DOWN'					=> '<strong>Memindahkan forum</strong> %1$s <strong>kebawah</strong> %2$s',
 	'LOG_FORUM_MOVE_UP'						=> '<strong>Memindahkan forum</strong> %1$s <strong>jkeatas</strong> %2$s',
-	'LOG_FORUM_SYNC'						=> '<strong>Sinkronisasi ulang forum</strong><br />» %s',v
-
+	'LOG_FORUM_SYNC'						=> '<strong>Sinkronisasi ulang forum</strong><br />» %s',
 	'LOG_IMAGE_GENERATION_ERROR'	=> '<strong>Error pada saat pembuatan gambar</strong><br />» Error pada %1$s di baris %2$s: %3$s',
 
 	'LOG_IMAGESET_ADD_DB'			=> '<strong>Menambah imageset yang baru di database</strong><br />» %s',
