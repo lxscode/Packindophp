@@ -453,6 +453,7 @@ $lang = array_merge($lang, array(
 	'RECIPIENT'							=> 'Penerima',
 	'RECIPIENTS'						=> 'Penerima',
 	'REGISTRATION'						=> 'Pendaftaran',
+	'OAUTH_REGISTRATION'				=> 'Mendaftar dengan pelayanan lain',
 	'RELEASE_MESSAGES'					=> '%sKeluarkan semua pesan yang tertahan%s… pesan itu akan diurutkan kembali ke folder yang tepat jika ruang yang dibuat mencukupi.',
 	'REMOVE_ADDRESS'					=> 'Singkirkan alamat',
 	'REMOVE_SELECTED_BOOKMARKS'			=> 'Singkirkan penunjuk halaman',
