@@ -617,8 +617,7 @@ $lang = array_merge($lang, array(
 	'LOG_SOFTDELETE_POST'		=> '<strong>Hapus pos sementara “%1$s” ditulis oleh “%2$s” dengan alasan</strong><br />» %3$s',
 	'LOG_SOFTDELETE_TOPIC'		=> '<strong>Hapus topik sementara “%1$s” ditulis oleh “%2$s” dengan alasan</strong><br />» %3$s',
 	'LOG_SPLIT_DESTINATION'		=> '<strong>memindahkan post yang dipecah</strong><br />» to %s',
-	'LOG_SPLIT_SOURCE'			=> '<strong>Memecah post</strong><br />» dari %s',s
-
+	'LOG_SPLIT_SOURCE'			=> '<strong>Memecah post</strong><br />» dari %s',
 	'LOG_TOPIC_APPROVED'		=> '<strong>Menyetujui topik</strong><br />» %s',
 	'LOG_TOPIC_RESTORED'		=> '<strong>Restored topic</strong><br />» %s',
 	'LOG_TOPIC_DISAPPROVED'		=> '<strong>Tidak menyetujui topik “%1$s” dengan alasan sebagai berikut</strong><br />%2$s',
