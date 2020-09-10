@@ -432,6 +432,7 @@ $lang = array_merge($lang, array(
 	'RESYNC_POSTCOUNTS'				=> 'Sinkronisasi ulang penghitungan post',
 	'RESYNC_POSTCOUNTS_EXPLAIN'		=> 'Hanya post yang ada yang akan diambil untuk dipertimbangkan. Pengurangan post tidak akan dihitung.',
 	'RESYNC_POSTCOUNTS_CONFIRM'		=> 'Apakah anda yakin ingin mensinkronisasi ulang penghitungan post?',
+	'RESYNC_POSTCOUNTS_SUCCESS'			=> 'Resynchronised post counts',
 	'RESYNC_POST_MARKING'			=> 'Sinkronisasi ulang topik yang ditandai',
 	'RESYNC_POST_MARKING_CONFIRM'	=> 'Apakah anda yakin ingin mensinkronisasi ulang topik yang ditandai?',
 	'RESYNC_POST_MARKING_EXPLAIN'	=> 'Yang tidak ditandai pertama sekali dan topik yang ditandai yang terlihat memiliki aktifitas selama enam bulan belakangan.',
@@ -656,6 +657,20 @@ $lang = array_merge($lang, array(
 	'LOG_FORUM_MOVE_DOWN'					=> '<strong>Memindahkan forum</strong> %1$s <strong>kebawah</strong> %2$s',
 	'LOG_FORUM_MOVE_UP'						=> '<strong>Memindahkan forum</strong> %1$s <strong>jkeatas</strong> %2$s',
 	'LOG_FORUM_SYNC'						=> '<strong>Sinkronisasi ulang forum</strong><br />» %s',
+
+	'LOG_GENERAL_ERROR'	=> '<strong>A general error occurred</strong>: %1$s <br />» %2$s',
+
+	'LOG_GROUP_CREATED'		=> '<strong>New usergroup created</strong><br />» %s',
+	'LOG_GROUP_DEFAULTS'	=> '<strong>Group “%1$s” made default for members</strong><br />» %2$s',
+	'LOG_GROUP_DELETE'		=> '<strong>Usergroup deleted</strong><br />» %s',
+	'LOG_GROUP_DEMOTED'		=> '<strong>Leaders demoted in usergroup</strong> %1$s<br />» %2$s',
+	'LOG_GROUP_PROMOTED'	=> '<strong>Members promoted to leader in usergroup</strong> %1$s<br />» %2$s',
+	'LOG_GROUP_REMOVE'		=> '<strong>Members removed from usergroup</strong> %1$s<br />» %2$s',
+	'LOG_GROUP_UPDATED'		=> '<strong>Usergroup details updated</strong><br />» %s',
+	'LOG_MODS_ADDED'		=> '<strong>Added new leaders to usergroup</strong> %1$s<br />» %2$s',
+	'LOG_USERS_ADDED'		=> '<strong>Added new members to usergroup</strong> %1$s<br />» %2$s',
+	'LOG_USERS_APPROVED'	=> '<strong>Users approved in usergroup</strong> %1$s<br />» %2$s',
+	'LOG_USERS_PENDING'		=> '<strong>Users requested to join group “%1$s” and need to be approved</strong><br />» %2$s',
 	'LOG_IMAGE_GENERATION_ERROR'	=> '<strong>Error pada saat pembuatan gambar</strong><br />» Error pada %1$s di baris %2$s: %3$s',
 
 	'LOG_IMAGESET_ADD_DB'			=> '<strong>Menambah imageset yang baru di database</strong><br />» %s',
