@@ -51,6 +51,7 @@ $lang = array_merge($lang, array(
 	'BBCODE_A_HELP'				=> 'Inline uploaded attachment: [attachment=]filename.ext[/attachment]',
 	'BBCODE_B_HELP'				=> 'Tulisan tebal: [b]teks[/b]',
 	'BBCODE_C_HELP'				=> 'Tampilan kode: [code]kode[/code]',
+	'BBCODE_D_HELP'				=> 'Flash: [flash=width,height]http://url[/flash]',
 	'BBCODE_E_HELP'				=> 'Daftar: Tambahkan elemen daftar',
 	'BBCODE_F_HELP'				=> 'Ukuran huruf: [size=85]teks kecil[/size]',
 	'BBCODE_IS_OFF'				=> '%sBBCode%s <em>Mati</em>',
