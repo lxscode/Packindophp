@@ -152,6 +152,7 @@ $lang = array_merge($lang, array(
 	'LOGIN_EXPLAIN_QUOTE'		=> 'Anda harus masuk untuk mengutip post-post di dalam forum ini.',
 	'LOGIN_EXPLAIN_REPLY'		=> 'Anda harus masuk untuk membalas topik di dalam forum ini.',
 
+	'MAX_ATTACHMENT_FILESIZE'	=> 'Maximum filesize per attachment: %s.',
 	'MAX_FONT_SIZE_EXCEEDED'	=> 'Anda hanya bisa menggunakan besar huruf sampai dengan %1$d.',
 	'MAX_FLASH_HEIGHT_EXCEEDED'	=> array(
 		1	=> 'Tinggi ukuran file flash anda hanya diperbolehkan sampai %1$d piksel.',
